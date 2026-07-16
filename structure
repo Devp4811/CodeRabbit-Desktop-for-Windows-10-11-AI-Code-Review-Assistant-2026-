@@ -1,0 +1,22 @@
+coderabbit-desktop-windows/
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       ├── bug_report.md
+│       └── feature_request.md
+├── assets/
+│   ├── logo.png
+│   ├── screenshot-1.png
+│   ├── screenshot-2.png
+│   └── icon.ico
+├── src/
+│   ├── main.js
+│   ├── preload.js
+│   ├── renderer.js
+│   └── styles.css
+├── build/
+│   └── (пусто, для билдов)
+├── README.md
+├── LICENSE
+├── .gitignore
+├── package.json
+└── setup.iss
